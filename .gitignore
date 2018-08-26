@@ -1,0 +1,4 @@
+output
+.sass-cache
+.jekyll-metadata
+Gemfile.lock

@@ -1,0 +1,28 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+source: source
+destination: output
+sass:
+  sass_dir: _sass
+  style: expanded # compressed # expanded
+
+# permalink and highlighter
+permalink   : /:title
+markdown    : kramdown
+highlighter : pygments
+
+# SEO settings
+title: syuae.net
+description: "Landing page of syuae.net"
+keywords: "syuae, tools, development, web"
+
+# Site settings
+url: https://syuae.net
+baseurl: 
+# baseurl: ""
+
