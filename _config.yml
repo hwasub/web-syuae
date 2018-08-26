@@ -9,7 +9,7 @@ source: source
 destination: output
 sass:
   sass_dir: _sass
-  style: expanded # compressed # expanded
+  style: compressed # compressed # expanded
 
 # permalink and highlighter
 permalink   : /:title

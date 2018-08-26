@@ -5,6 +5,7 @@ subtitle: what we are
 permalink: /about
 ---
 
-We are the planners of excitement and doing little things that matter for a little number of human.
+We are the planners of excitement and ♥ who do little things that matter for a little number of human. If you need to contact us, reach at: syuae `at` syuae `dot` net.
 
-Website < />ed with [Jekyll](https://jekyllrb.com/) and [dotX](https://nandomoreirame.github.io/dotX/) with ♥
+
+< />ed with [Jekyll](https://jekyllrb.com/) and [dotX](https://nandomoreirame.github.io/dotX/)
