@@ -11,6 +11,12 @@ sass:
   sass_dir: _sass
   style: compressed # compressed # expanded
 
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  blanklines: false
+  profile: false
+
 # permalink and highlighter
 permalink   : /:title
 markdown    : kramdown
