@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>syuae.net</title>
+    <description>Landing page of syuae.net</description>
+    <link>https://team.syuae.net/</link>
+    <atom:link href="https://team.syuae.net/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 29 Aug 2018 07:22:57 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Aug 2018 07:22:57 +0000</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
+    
+  </channel>
+</rss>
